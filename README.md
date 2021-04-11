@@ -14,5 +14,5 @@ For example:
 - footer
 
 Please, make sure to check out my two projects that I have completed so far!
-the images should direct you to those projects.
+The images should direct you to those projects.
 
